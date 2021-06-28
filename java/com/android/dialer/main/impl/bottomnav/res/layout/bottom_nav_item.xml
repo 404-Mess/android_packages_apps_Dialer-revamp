@@ -30,8 +30,8 @@
 
     <ImageView
         android:id="@+id/bottom_nav_item_image"
-        android:layout_width="24dp"
-        android:layout_height="24dp"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
         android:layout_marginTop="8dp"/>
 
     <TextView
@@ -51,14 +51,14 @@
         android:background="@drawable/notification_badge"
         android:fontFamily="sans-serif-medium"
         android:visibility="invisible"/>
-  </FrameLayout>
 
   <TextView
       android:id="@+id/bottom_nav_item_text"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
-      android:layout_marginBottom="8dp"
       android:gravity="center_horizontal"
-      android:textSize="12sp"
+      android:textSize="15sp"
       style="@style/Dialer.TextAppearance.Secondary"/>
+  </FrameLayout>
+
 </com.android.dialer.main.impl.bottomnav.BottomNavItem>

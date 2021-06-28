@@ -38,7 +38,7 @@
   <dimen name="call_log_list_item_info_margin_start">16dp</dimen>
 
   <!-- Size of contact photos in the call log and call details. -->
-  <dimen name="contact_photo_size">48dp</dimen>
+  <dimen name="contact_photo_size">60dp</dimen>
 
   <!-- Dimensions for speed dial tiles -->
   <dimen name="contact_tile_divider_width">1dp</dimen>

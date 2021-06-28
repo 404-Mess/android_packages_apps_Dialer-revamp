@@ -22,7 +22,7 @@
     app:contentInsetEnd="0dp"
     app:contentInsetStart="0dp">
   <FrameLayout
-      android:layout_width="300dp"
+      android:layout_width="370dp"
       android:layout_height="66dp"
       android:layout_marginTop="10dp">
     <com.android.dialer.main.impl.toolbar.SearchBarView

@@ -17,5 +17,6 @@
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
   android:shape="rectangle">
   <solid android:color="?android:attr/colorBackgroundFloating"/>
+    <stroke android:width="1dip" android:color="#BDBDBD" />
   <corners android:radius="24dp"/>
 </shape>
